@@ -7,28 +7,17 @@
 </head>
 <body>
   <Pre>
-  <div> Hello </div>
-    <p>Goodbye</p>
-    <!-- h${title $}*3 -->
-    <h1>title 1</h1>
-    <h2>title 2</h2>
-    <h3>title 3</h3>
-    <main>
-      <ul>  
-        <!-- Order List -->
         <li>Reading</li>
         <ul>
           <li>Novels</li>
           <li>Magazines</li>
           <li>Comics</li>
         </ul>
-<!-- unordered list -->
         <ol>
           <li>Hi</li>
           <li>Bye</li>
         </ol>
       </ul>
-
       <table>
         <tr>
           <th>Name</th>
